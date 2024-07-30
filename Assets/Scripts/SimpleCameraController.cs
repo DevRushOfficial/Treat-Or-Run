@@ -86,6 +86,9 @@ namespace UnityTemplateProjects
         InputAction boostFactorAction;
         bool        mouseRightButtonPressed;
 
+// ggg
+
+
         void Start()
         {
             var map = new InputActionMap("Simple Camera Controller");
